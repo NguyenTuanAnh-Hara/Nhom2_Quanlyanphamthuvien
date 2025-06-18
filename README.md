@@ -8,19 +8,7 @@ Dự án **"Phần mềm quản lý ấn phẩm thư viện"** là một ứng d
 
 ---
 
-## Thành viên
-
-- Nguyễn Tuấn Anh — MSV: 23010799  
-- # 📚 Phần mềm Quản lý Ấn phẩm Thư viện
-
-## 🧾 Giới Thiệu
-
-Dự án **"Phần mềm quản lý ấn phẩm thư viện"** là một ứng dụng Java sử dụng JavaFX giúp quản lý các ấn phẩm thư viện, đăng nhập người dùng, giao diện thân thiện, và hỗ trợ thao tác với dữ liệu XML.  
-Ứng dụng hỗ trợ quản lý sản phẩm (ấn phẩm), giao diện trực quan, và hoạt động trên môi trường desktop hiệu quả.
-
----
-
-## 👥 Nhóm 3
+## 👥 Thành Viên
 
 - Nguyễn Tuấn Anh — MSV: 23010799
 - Phạm Tiến Chiêu - 23010526
