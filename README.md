@@ -100,7 +100,7 @@ Dự án **"Phần mềm quản lý ấn phẩm thư viện"** là một ứng d
 
 - Khi mở ứng dụng → màn hình đăng nhập
 - Nhập tài khoản:
-  - **Tên đăng nhập:** `1`
+  - **Tên đăng nhập:** `admin`
   - **Mật khẩu:** `1`
 - Sau đó vào giao diện chính
 
